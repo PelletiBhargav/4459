@@ -6,5 +6,6 @@ for i in range(n):
         print("*",end='')
     for j in range(sp):
         print("",end='')
+    print()
     st=st+1
     sp=sp-1
